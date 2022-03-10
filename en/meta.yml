@@ -1,0 +1,10 @@
+title: Use the Pico LED for debugging
+hero_image: images/banner.png
+description: Turn the LED on the Raspberry Pi Pico on and off to check that your code is running. 
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-03-10"
+steps:
+  - title: Use the Pico LED for debugging
+
