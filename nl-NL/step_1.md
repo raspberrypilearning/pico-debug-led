@@ -1,6 +1,6 @@
-Turn the LED on the Raspberry Pi Pico board on and off to check that your device is working and your code is running.
+Schakel de LED op het Raspberry Pi Pico bord aan en uit om te controleren of je apparaat werkt en je code draait.
 
-Add this code to the top of your script:
+Voeg deze code bovenaan je script:
 
 --- code ---
 ---
