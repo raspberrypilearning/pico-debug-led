@@ -1,0 +1,11 @@
+
+title: Gebruik de Pico LED voor foutopsporing
+hero_image: images/banner.png
+description: Schakel de LED op de Raspberry Pi Pico aan en uit om te controleren of je code draait.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-03-10"
+steps:
+  - title: Gebruik de Pico LED voor foutopsporing
+
