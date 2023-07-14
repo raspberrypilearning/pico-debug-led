@@ -1,0 +1,11 @@
+
+title: Utiliser la LED du Pico pour le débogage
+hero_image: images/banner.png
+description: Allumer et éteindre la LED sur le Raspberry Pi Pico pour vérifier que ton code est en cours d'exécution.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-03-10"
+steps:
+  - title: Utiliser la LED du Pico pour le débogage
+
